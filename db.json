@@ -1,5 +1,4 @@
 {
-    "json": {
     "code": 1,
     "message": "success",
     "data": [
@@ -40,5 +39,4 @@
         "updatetime": "2022-10-01 12:00:00"
       }
     ]
-    }
 }
